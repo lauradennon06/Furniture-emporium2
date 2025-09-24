@@ -1,0 +1,52 @@
+h1 {
+  background-color: lightgoldenrodyellow;
+  font-family: "Courier New", Courier, monospace;
+  color: darkgreen;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid darkgreen;
+}
+
+.tagline {
+  font-style: italic;
+  text-align: center;
+  color: darkslategray;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+article {
+  border: 3px solid darkgreen;
+  background-color: lightgoldenrodyellow;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: darkgreen;
+}
+
+.price {
+  font-weight: bold;
+  color: rgb(81, 139, 0);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid darkred;
+  padding: 5px;
+  width: fit-content;
+  background-color: white;
+  border-radius: 50px;
+}
+
+button {
+  background-color: darkgreen;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+s {
+  color: rgb(237, 17, 17);
+  font-size: 14px;
+}
